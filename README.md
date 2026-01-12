@@ -8,3 +8,11 @@ Following builds were reconstructed:
 | Build number         | Status           | Note                   |
 | :---:                |   :---:          |   :---:                |
 | KRS3B                |  In process      |  Mistyped build KRS53B |
+
+
+
+
+Useful Links
+------------
+
+* [Pre-Release Android Manifest Repository](https://github.com/froyocomb/android)
