@@ -414,7 +414,7 @@
   <project path="external/zlib" name="platform/external/zlib" groups="pdk" revision="f8216f042375c79640f7319964dcffbb2b39f66e" />
   <!-- RTM revision -->
   <project path="external/zxing" name="platform/external/zxing" revision="7620644768ffc235607b3a94671e49518c18686f" />
-  <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" revision="9cf69e0fc110f17c28e988ed0f9bf91abfaf710d" />
+  <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" revision="33142e1e318c0c766a385d88d2434f62f9e2dfe7" /> <!-- same with KRS53G -->
   <project path="frameworks/base" name="platform_frameworks_base" remote="github" groups="pdk" revision="KRS53G-fix" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" revision="eab740276cffc3f762345018a9ab2472ccaa893d" />
   <!-- RTM revision -->
