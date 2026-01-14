@@ -466,7 +466,7 @@
   <project path="hardware/qcom/audio" name="platform/hardware/qcom/audio" groups="qcom" revision="7951576278e012351381ff75eb8d43b66796b798" />
   <!-- RTM revision -->
   <project path="hardware/qcom/bt" name="platform/hardware/qcom/bt" groups="qcom" revision="cf314a462ba06f4bd3352d5d4630edcf6edbbe97" />
-  <project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" groups="qcom" revision="2e1ef5dd7befcec7ff418df4c06af62edd2597aa" />
+  <project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" groups="qcom" revision="6990dc70b744c1fa9eb3d2d7eb27bcc89857746e" />
   <project path="hardware/qcom/display" name="platform/hardware/qcom/display" groups="qcom" revision="2f86551efc55d59c487993a64038862731660fb9" />
   <!-- RTM revision -->
   <project path="hardware/qcom/keymaster" name="platform/hardware/qcom/keymaster" groups="qcom" revision="27e66b721ed6472fb319b0421ca460713a1b2df5" />
@@ -492,44 +492,44 @@
   <!-- RTM revision -->
   <project path="ndk" name="platform/ndk" revision="e58ef003be4306bb53a8c11331146f39e4eab31f" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" revision="58b8a2b8822b7356f8da1d30f79cda6e775cef4c" />
-  <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" revision="09360264f212768c828ed8fc5051cd4d3ec1b381" />
+  <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" revision="9f5c7c6ed2a50148049656ec79cd945ce8c04fbf" />
   <project path="packages/apps/Browser" name="platform/packages/apps/Browser" revision="56b5495f6761d5800918682a5b6bdd282019f14b" />
   <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" revision="c1d804ebb55bce2d29bb2c64f06f31492a50b654" />
   <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" revision="f91fae5bccf507d7afead088fb371ca635ebb476" />
   <project path="packages/apps/Camera" name="platform/packages/apps/Camera" revision="4d0e425ac21edd91b387f6a4f869abce6d802aae" />
-  <project path="packages/apps/Camera2" name="platform/packages/apps/Camera2" revision="00373f8a411042964f019a6355864a4c25fc2238" />
+  <project path="packages/apps/Camera2" name="platform/packages/apps/Camera2" revision="919284cf30980d0f2a01c2ca37046039e0b7d713" />
   <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" revision="9c254c5254846be2792f67d3a0e509f3477695be" />
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" revision="ed8faea378f949148993092b785c6438418c14b4" />
   <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts" revision="949c7fc1f4ecb36934a4b1f26e513534845d4c33" />
   <project path="packages/apps/ContactsCommon" name="platform/packages/apps/ContactsCommon" revision="e31b07390729cced594404410efb4448f94a95cb" />
   <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" revision="e7d6d276c24609c10d29d0ae7a7c701e12a45428" />
-  <project path="packages/apps/Dialer" name="platform/packages/apps/Dialer" revision="4beffadcc0a9fd3a265cbdd71b3a1f320888e805" />
-  <project path="packages/apps/Email" name="platform/packages/apps/Email" revision="e28df2420522643a23646921cb252de3a6188b9d" />
-  <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" revision="6c77a15efe0f58c0298079af3d3798acf4f1ac30" />
+  <project path="packages/apps/Dialer" name="platform/packages/apps/Dialer" revision="0294816692f17f10ec1a76ff780b0e32416e70fc" />
+  <project path="packages/apps/Email" name="platform/packages/apps/Email" revision="336e65b6e1eb92fac8f03b5c39dde19361577cb4" />
+  <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" revision="ea6e1c95590ee5072c7dbaefb45a67bdc4fc45ed" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" revision="7a06045562512f78e050ba7b01f8422b98c7db85" />
-  <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" revision="73d0f42972c7c49a2589f2184f67e5a887007e7e" />
+  <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" revision="601bbb6da7ed8241cda50323b46090ecfff61bdd" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" revision="5490ee5eeeb517c112e9584a5e9e42758113d2a6" />
   <project path="packages/apps/InCallUI" name="platform/packages/apps/InCallUI" revision="d01ed019c5f18d4289b4995e08702d6aa2929986" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" revision="189b0c8d7a5041bdae4fcddc72348268788cf602" />
   <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" revision="ca885613093630c495ed8a72a45685e21144c8d2" />
-  <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" revision="fbf25c19aa50f4bc2d3479b7ffb08609f2974e9e" />
+  <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" revision="0e6a713fca3261021fcaca62c75dad8486c5e39f" />
   <!-- RTM revision -->
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" revision="470b311e82a9a9d9b8d9609b7c9763403bd33081" />
-  <project path="packages/apps/Mms" name="platform/packages/apps/Mms" revision="1ac223fe67dbf00f2b7fc4cbeca4fed3e458c974" />
+  <project path="packages/apps/Mms" name="platform/packages/apps/Mms" revision="4ca65b05736f85913f756edf09d1065441bf9702" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" revision="7e2c5e49e2275407fcf3601bce54a49807724cf5" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" revision="016bc867e4ed1c8af2835bdc0824597fc1edc15a" />
-  <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" revision="78976de08ad5d5f9d5fcba28f3ea82350907a782" />
+  <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" revision="7e25e2c11480ca98d33ae3df0604bae242926950" />
   <!-- RTM revision -->
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" revision="01e429c08e51291315890de9677151a7e0b6ad35" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" revision="4196137c30528703b2dcbcf7e61e89693ef65616" />
-  <project path="packages/apps/Phone" name="platform/packages/apps/Phone" revision="570e7bd90439cee763e776334313d132681c35d4" />
+  <project path="packages/apps/Phone" name="platform/packages/apps/Phone" revision="1ae72b1b852ba7d08b03afb465c7f9d45d1b250b" />
   <!-- RTM revision -->
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" revision="180de3514a800df7b9ca8f1c3da23287a709f61b" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" revision="bed2715fefc7782fbc78a938d7dbf05e69195bbc" />
   <!-- RTM revision -->
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" revision="78ca0db658fe6253d506916e36319e620476f809" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" revision="7c6002c0064a37f60cda25d3e87cac54b2a03e1c" />
-  <project path="packages/apps/Settings" name="platform/packages/apps/Settings" revision="08a4c33a409f7cc693527de138179f80bf07be9c" />
+  <project path="packages/apps/Settings" name="platform/packages/apps/Settings" revision="5114444eca4e62f32cc85b9740dc0c66f87d5d99" />
   <!-- RTM revision -->  
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" revision="29eae320a4bd222b5ff1c092f84f1aebba88d0b7" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" revision="1659a06af0b865c70c5eb69b2fc71a28c31952bc" />
@@ -539,7 +539,7 @@
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" revision="536aa74ff3a77186bef29dc9333a34688fa59d13" />
   <project path="packages/apps/Stk" name="platform/packages/apps/Stk" revision="2d613a114407dd0e88f59ca00eac60888c1e7569" />
   <project path="packages/apps/Tag" name="platform/packages/apps/Tag" revision="2c25801e7e818ff949a46e54d82539bf96c8ecae" />
-  <project path="packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" revision="cef97ff7118b0a30cff842129300e0633d220043" />
+  <project path="packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" revision="8bccd10f05d3cc13894df8b9a63bf00d991c55c2" />
   <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" revision="c32266983578f20d036d9de78d764a7e1f3c8175" />
   <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" revision="6a5eb396d695581d2a8b0e678a037b656ae3e37c" />
   <project path="packages/experimental" name="platform/packages/experimental" revision="ccd352be3a221d8127ec762d1efa4452a3cbd6ec" />
@@ -552,8 +552,8 @@
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" revision="3347f31bd268ca3153abe5def9361f625bd73efd" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" revision="74dfe7de007563af5cab1c1bb458f4ebd4e4f66d" />
   <project path="packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider" revision="bb267482ca936e8bf51a020f4f67bf71b0a01f14" />
-  <project path="packages/providers/DownloadProvider" name="platform/packages/providers/DownloadProvider" revision="3173474ba17b21c0d7294e4479c13c87acd09267" />
-  <project path="packages/providers/MediaProvider" name="platform/packages/providers/MediaProvider" revision="f89e9bc71e5790b2cbe680a91bd77473fab7d59a" />
+  <project path="packages/providers/DownloadProvider" name="platform/packages/providers/DownloadProvider" revision="fd07263f824134d4bce91a3e1d51c851894bf758" />
+  <project path="packages/providers/MediaProvider" name="platform/packages/providers/MediaProvider" revision="9d3d682754043c09c0b99f9535cd6154d2f32f92" />
   <!-- RTM revision -->
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" revision="96d0a80af45923767baf449fc8c735c2f71d64ae" />
   <project path="packages/providers/TelephonyProvider" name="platform/packages/providers/TelephonyProvider" revision="a93ef7712877a1199a9186039fb9323f5b5306d9" />
