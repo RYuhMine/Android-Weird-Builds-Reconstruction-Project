@@ -461,7 +461,7 @@
   <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" groups="pdk" revision="1c9185b44c6df2cdeb8eb27c12cb23465dd3aa2d" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" groups="broadcom_wlan" revision="f3edd27baa1a672542900665774d8af6b1bc71f2" />
   <project path="hardware/invensense" name="platform/hardware/invensense" groups="invensense" revision="9b98ed996e18d6097c9976c9cfe9a0c9397998fe" />
-  <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" revision="69e82d2df615b77ff868309b8f2c0323eadb42c5" />
+  <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" revision="59caeb14a7cb7cbc74db725343922c81f0e2e3aa" />
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" groups="pdk" revision="b96b2839f464f93e30d256124034ec985f8a9702" />
   <project path="hardware/qcom/audio" name="platform/hardware/qcom/audio" groups="qcom" revision="7951576278e012351381ff75eb8d43b66796b798" />
   <!-- RTM revision -->
