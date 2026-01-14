@@ -620,13 +620,13 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" revision="af7b5a1129534e969532aa325847a526393f88ef" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" revision="cbcb71c219474be74da89d8b918b7aa3b102fdf6" />
   <project path="sdk" name="platform/sdk" revision="c243ad8b781e1a268383a1158bcbc41c2b9ecbc8" />
-  <project path="system/core" name="platform/system/core" groups="pdk" revision="18860c524915bc991a9015bdbab32e918f5298d7" />
+  <project path="system/core" name="platform/system/core" groups="pdk" revision="2f9c5fd4b9676c59839c45bf4877551188dbc22a" />  <!-- same with KRS53G,  18860c524915bc991a9015bdbab32e918f5298d7 -->
   <!-- RTM revision -->
   <project path="system/extras" name="platform/system/extras" groups="pdk" revision="991bcd464d67c3cff76477140331619ff138aafc" />
   <project path="system/media" name="platform/system/media" groups="pdk" revision="704d1287124b7583e52fe1705043838b1f954f7d" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" revision="9b3cd7635caf5948d7d4b11f8f588c9d2811d58e" />
   <project path="system/security" name="platform/system/security" groups="pdk" revision="48772e0fe92c75e02a5ea92a6fbfdd0203c910ae" />
-  <project path="system/vold" name="platform/system/vold" groups="pdk" revision="550ac6c1ff609b1fed1657feefda7a9ee4c3d825" />
+  <project path="system/vold" name="platform/system/vold" groups="pdk" revision="b9a7179207bb7b2a40a22215919958dbc393334f" />  <!-- same with KRS53G,  550ac6c1ff609b1fed1657feefda7a9ee4c3d825 -->
   <!-- RTM revision -->
   <project path="tools/adt/eclipse" name="platform/tools/adt/eclipse" groups="notdefault,tools" revision="ede2ed86419bb4c78428f1ac09825b1a247d8e24" />
   <!-- RTM revision -->
