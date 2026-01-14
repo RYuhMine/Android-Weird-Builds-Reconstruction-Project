@@ -103,15 +103,15 @@
   <project path="external/checkpolicy" name="platform/external/checkpolicy" groups="pdk" revision="0d73ef7049feee794f14cf1af88d05dae8139914" />
   <!-- RTM revision -->
   <project path="external/chromium" name="platform/external/chromium" revision="d8d0d5cef636d5456bf5f3645959409bdc5499aa" />
-  <project path="external/chromium-libpac" name="platform/external/chromium-libpac" groups="pdk" revision="c06a8d69b50384113df4a17824c68bbfce7fb578" />
+  <project path="external/chromium-libpac" name="platform/external/chromium-libpac" groups="pdk" revision="40adcb542a80576ad761fcb7362b98e9afd754fa" />
   <!-- RTM revision -->
   <project path="external/chromium-trace" name="platform/external/chromium-trace" groups="pdk" revision="8252ae6b83ea65cf871e7981e981da07379f5a0f" />
-  <project path="external/chromium_org" name="platform/external/chromium_org" revision="a95f13409653b8daad724466f9a556ab5ee1db44" />
+  <project path="external/chromium_org" name="platform/external/chromium_org" revision="164ef66bc11ab665485d936b633a49d3940510a7" />
   <!-- RTM revision -->
   <project path="external/chromium_org/sdch/open-vcdiff" name="platform/external/chromium_org/sdch/open-vcdiff" revision="e485ff1fb732be2dff497b6aed11d5c0d681de82" />
   <!-- RTM revision -->
   <project path="external/chromium_org/testing/gtest" name="platform/external/chromium_org/testing/gtest" revision="3b92be903ac01851c3205ce53f12145a8b3f6791" />
-  <project path="external/chromium_org/third_party/WebKit" name="platform/external/chromium_org/third_party/WebKit" revision="dd79bad34b132e1f7f1f457451f353e2fab335c9" />
+  <project path="external/chromium_org/third_party/WebKit" name="platform/external/chromium_org/third_party/WebKit" revision="fdf738efc0c4fc00ecfb7051c5947826c83489e8" />
   <project path="external/chromium_org/third_party/angle_dx11" name="platform/external/chromium_org/third_party/angle_dx11" revision="663b3925425a23852b2f18be032dd4601f9f479d" />
   <!-- RTM revision -->
   <project path="external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" name="platform/external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" revision="bb4c72f1deb0b8b2b0468b0bf1050462ebcf6135" />
@@ -420,12 +420,12 @@
   <!-- RTM revision -->
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" revision="89a5648fcb366adb25b75aa69a7ad9a34842dd17" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" revision="003ac666e57669d4312b5792068c3db302ee7b84" />
-  <project path="frameworks/ex" name="platform/frameworks/ex" revision="e407bff4896dfe7f43fc955d35ee40b321b8cc83" />
+  <project path="frameworks/ex" name="platform/frameworks/ex" revision="6b425b5e4b7bb53a783ad3f07c78693a2cce551d" />
   <!-- RTM revision -->
   <project path="frameworks/mff" name="platform/frameworks/mff" revision="b9669b8540a1e5c953374d53b115514335e23c27" />
   <!-- RTM revision -->
   <project path="frameworks/ml" name="platform/frameworks/ml" revision="5072d507df1fd827ac7b15900c1f113949f76f12" />
-  <project path="frameworks/native" name="platform/frameworks/native" groups="pdk" revision="bcab7b17b1c5476935a6f2f916922b4eb57991a4" />
+  <project path="frameworks/native" name="platform/frameworks/native" groups="pdk" revision="b6aea00c7843705fdc6d265d7e15b3df52e86009" />
   <!-- RTM revision -->  
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" revision="e017a53a1a90ac1c62c1de549d63138bd8237f7d" />
   <!-- RTM revision -->
@@ -443,16 +443,16 @@
   <project path="frameworks/opt/net/voip" name="platform/frameworks/opt/net/voip" revision="b51ed34abbb70994da221c545678d9dc5fe88141" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" revision="b22be2df7fbdd1eef4d09219b609f44269289edc" />
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" revision="1e6f3f863613b6eeb7161444e77427443e9703a2" />
-  <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" groups="pdk" revision="b256cf8dcb3a478bd0b47a74a5e355c6f4c03d85" />
+  <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" groups="pdk" revision="368e873b65e60268521b3c74110a9b2abe8086ac" />
   <!-- RTM revision -->
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" revision="5f55ee296e26d5278fd0d91657edddc92766459e" />
   <project path="frameworks/rs" name="platform/frameworks/rs" groups="pdk" revision="3f5627fc2f58dc75a6e514c6b1a77b0b0ad6fb90" />
-  <project path="frameworks/support" name="platform/frameworks/support" revision="7720e5ceb6a4cc9ed330ad7c483f7eac08f554e6" />
+  <project path="frameworks/support" name="platform/frameworks/support" revision="6b8ef5b3d63ecd74a56d52ad02643bf9193a6bd8" />
   <!--<project path="frameworks/testing" name="platform/frameworks/testing" revision="99937ceb604da144fd88c028d79fd3b2478f059d" />-->
   <project path="frameworks/uiautomator" name="platform/frameworks/uiautomator" revision="911b8f36c1bca4a185be59827c618ac84d83ad00" />
   <!-- RTM revision -->
   <project path="frameworks/volley" name="platform/frameworks/volley" revision="bd04632e0c5b4a29889c1b70089ac2322229b5e6" />
-  <project path="frameworks/webview" name="platform/frameworks/webview" revision="da5db0dadd27c0fdd3b626b8705cb9b1d91d2da3" />
+  <project path="frameworks/webview" name="platform/frameworks/webview" revision="3d52163e1c466860651414670c59762f5bdd269f" />
   <!-- RTM revision -->
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" revision="f0c3b4edf597c40aae4ea311575f39c8bcf203df" />
   <!-- RTM revision -->
