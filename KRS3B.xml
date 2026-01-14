@@ -420,12 +420,12 @@
   <!-- RTM revision -->
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" revision="89a5648fcb366adb25b75aa69a7ad9a34842dd17" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" revision="003ac666e57669d4312b5792068c3db302ee7b84" />
-  <project path="frameworks/ex" name="platform/frameworks/ex" revision="6b425b5e4b7bb53a783ad3f07c78693a2cce551d" />
+  <project path="frameworks/ex" name="platform/frameworks/ex" revision="e407bff4896dfe7f43fc955d35ee40b321b8cc83" />
   <!-- RTM revision -->
   <project path="frameworks/mff" name="platform/frameworks/mff" revision="b9669b8540a1e5c953374d53b115514335e23c27" />
   <!-- RTM revision -->
   <project path="frameworks/ml" name="platform/frameworks/ml" revision="5072d507df1fd827ac7b15900c1f113949f76f12" />
-  <project path="frameworks/native" name="platform/frameworks/native" groups="pdk" revision="b6aea00c7843705fdc6d265d7e15b3df52e86009" />
+  <project path="frameworks/native" name="platform/frameworks/native" groups="pdk" revision="bcab7b17b1c5476935a6f2f916922b4eb57991a4" />
   <!-- RTM revision -->  
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" revision="e017a53a1a90ac1c62c1de549d63138bd8237f7d" />
   <!-- RTM revision -->
@@ -443,16 +443,16 @@
   <project path="frameworks/opt/net/voip" name="platform/frameworks/opt/net/voip" revision="b51ed34abbb70994da221c545678d9dc5fe88141" />
   <project path="frameworks/opt/photoviewer" name="platform/frameworks/opt/photoviewer" revision="b22be2df7fbdd1eef4d09219b609f44269289edc" />
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" revision="1e6f3f863613b6eeb7161444e77427443e9703a2" />
-  <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" groups="pdk" revision="368e873b65e60268521b3c74110a9b2abe8086ac" />
+  <project path="frameworks/opt/telephony" name="platform/frameworks/opt/telephony" groups="pdk" revision="b256cf8dcb3a478bd0b47a74a5e355c6f4c03d85" />
   <!-- RTM revision -->
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" revision="5f55ee296e26d5278fd0d91657edddc92766459e" />
   <project path="frameworks/rs" name="platform/frameworks/rs" groups="pdk" revision="3f5627fc2f58dc75a6e514c6b1a77b0b0ad6fb90" />
-  <project path="frameworks/support" name="platform/frameworks/support" revision="6b8ef5b3d63ecd74a56d52ad02643bf9193a6bd8" />
+  <project path="frameworks/support" name="platform/frameworks/support" revision="7720e5ceb6a4cc9ed330ad7c483f7eac08f554e6" />
   <!--<project path="frameworks/testing" name="platform/frameworks/testing" revision="99937ceb604da144fd88c028d79fd3b2478f059d" />-->
   <project path="frameworks/uiautomator" name="platform/frameworks/uiautomator" revision="911b8f36c1bca4a185be59827c618ac84d83ad00" />
   <!-- RTM revision -->
   <project path="frameworks/volley" name="platform/frameworks/volley" revision="bd04632e0c5b4a29889c1b70089ac2322229b5e6" />
-  <project path="frameworks/webview" name="platform/frameworks/webview" revision="3d52163e1c466860651414670c59762f5bdd269f" />
+  <project path="frameworks/webview" name="platform/frameworks/webview" revision="da5db0dadd27c0fdd3b626b8705cb9b1d91d2da3" />
   <!-- RTM revision -->
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" revision="f0c3b4edf597c40aae4ea311575f39c8bcf203df" />
   <!-- RTM revision -->
