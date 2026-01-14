@@ -20,14 +20,14 @@
   <!-- RTM revision -->
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" revision="18f1b5e28734183ff8073fe86dc46bc4ebba8a59"/>
   <project path="art" name="platform/art" groups="pdk" revision="1e3e5c6438dca51c554c82f6650097c42121582a" />
-  <project path="bionic" name="platform/bionic" groups="pdk" revision="9ef1fbb644bf85fa211588853316efa4848547c6" />
+  <project path="bionic" name="platform/bionic" groups="pdk" revision="d67662b9d6e8854a429b762c83ec37a995c05eb6" />
   <!-- RTM revision -->
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" revision="3c491d6efb8ff2534a6934702760a6273f197918"/>
   <!-- RTM revision -->
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" revision="60d078a5924284a452a8fe739247704f8b31c754" />
   <project path="bootable/recovery" name="platform/bootable/recovery" groups="pdk" revision="239ac6abac4524be93fce710360c0512c6cc2ab3" />
-  <project path="cts" name="platform/cts" groups="cts" revision="05caa46bb32cf8354b3979cdf7bf551fb8b4277b" />
-  <project path="dalvik" name="platform/dalvik" revision="8723464b85290c1b348bf3e29d06e6d0a291fd4c" />
+  <project path="cts" name="platform/cts" groups="cts" revision="af24d26266225ba0769b2243bc8c607212914e3a" />
+  <project path="dalvik" name="platform/dalvik" revision="95adf1ff81dec324746bef58ba8c45dc1c8f3b50" />
   <!-- RTM revision -->
   <project path="developers/build" name="platform/developers/build" revision="2b1169e2095f5e30f118abd146a62007697cecc3" />
   <!-- RTM revision -->
@@ -35,12 +35,12 @@
   <!-- RTM revision -->  
   <project path="developers/docs" name="platform/developers/docs" revision="c0b835ddd9acc27176dc9a0f7d1aa2faf5d51806" />
   <project path="developers/samples/android" name="platform/developers/samples/android" revision="9948d0c3fc0bad53a00f66d8220d363979f6c1e5" />
-  <project path="development" name="platform/development" revision="c518764b02d4b99b06400dd1903019b1f44a78bf" />
+  <project path="development" name="platform/development" revision="7db79b35483922a07a3a144dd3354b1f0d0cc9b3" />
   <project path="device/asus/deb" name="device/asus/deb" groups="device,flo" revision="9a049bd47aa0c6dad50f29035c435b9212cf58ca" />
-  <project path="device/asus/flo" name="device/asus/flo" groups="device,flo" revision="9655ed71a101c12331f4c170d8cfe99929e9f75d" />
+  <project path="device/asus/flo" name="device/asus/flo" groups="device,flo" revision="78f015f02ff0696955550ca5a2ca97201f35e2c6" />
   <project path="device/asus/flo-kernel" name="device/asus/flo-kernel" groups="device,flo" revision="6819b2a66d1a76ba7876a917c41e6a8acefae694" />
-  <project path="device/asus/grouper" name="device/asus/grouper" groups="device,grouper" revision="6d3453b779ce119ee2afaa95d338fff877f721f9" />
-  <project path="device/asus/tilapia" name="device/asus/tilapia" groups="device,grouper" revision="e51c13c83ee5a59d74f7b76717fc11602591ff76" />
+  <project path="device/asus/grouper" name="device/asus/grouper" groups="device,grouper" revision="d33f56ee25f6bf7666d894ae9053729d0ce0dee3" />
+  <project path="device/asus/tilapia" name="device/asus/tilapia" groups="device,grouper" revision="e6207b9f5942e853adcafd11399af23b392ad0ff" />
   <!-- RTM revision -->
   <project path="device/common" name="device/common" revision="7dc7cdf2ea8db46c7719bafbe077f25ead45d3ce" />
   <!-- RTM revision -->
@@ -620,13 +620,13 @@
   <project path="prebuilts/sdk" name="platform/prebuilts/sdk" groups="pdk" revision="af7b5a1129534e969532aa325847a526393f88ef" />
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" revision="cbcb71c219474be74da89d8b918b7aa3b102fdf6" />
   <project path="sdk" name="platform/sdk" revision="c243ad8b781e1a268383a1158bcbc41c2b9ecbc8" />
-  <project path="system/core" name="platform/system/core" groups="pdk" revision="18860c524915bc991a9015bdbab32e918f5298d7" />
+  <project path="system/core" name="platform/system/core" groups="pdk" revision="2f9c5fd4b9676c59839c45bf4877551188dbc22a" />
   <!-- RTM revision -->
   <project path="system/extras" name="platform/system/extras" groups="pdk" revision="991bcd464d67c3cff76477140331619ff138aafc" />
   <project path="system/media" name="platform/system/media" groups="pdk" revision="704d1287124b7583e52fe1705043838b1f954f7d" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" revision="9b3cd7635caf5948d7d4b11f8f588c9d2811d58e" />
   <project path="system/security" name="platform/system/security" groups="pdk" revision="48772e0fe92c75e02a5ea92a6fbfdd0203c910ae" />
-  <project path="system/vold" name="platform/system/vold" groups="pdk" revision="550ac6c1ff609b1fed1657feefda7a9ee4c3d825" />
+  <project path="system/vold" name="platform/system/vold" groups="pdk" revision="b9a7179207bb7b2a40a22215919958dbc393334f" />
   <!-- RTM revision -->
   <project path="tools/adt/eclipse" name="platform/tools/adt/eclipse" groups="notdefault,tools" revision="ede2ed86419bb4c78428f1ac09825b1a247d8e24" />
   <!-- RTM revision -->
