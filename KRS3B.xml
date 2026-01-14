@@ -414,18 +414,18 @@
   <project path="external/zlib" name="platform/external/zlib" groups="pdk" revision="f8216f042375c79640f7319964dcffbb2b39f66e" />
   <!-- RTM revision -->
   <project path="external/zxing" name="platform/external/zxing" revision="7620644768ffc235607b3a94671e49518c18686f" />
-  <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" revision="33142e1e318c0c766a385d88d2434f62f9e2dfe7" /> <!-- same with KRS53G -->
+  <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" revision="33142e1e318c0c766a385d88d2434f62f9e2dfe7" /> <!-- same with KRS53G,  9cf69e0fc110f17c28e988ed0f9bf91abfaf710d -->
   <project path="frameworks/base" name="platform_frameworks_base" remote="github" groups="pdk" revision="KRS53G-fix" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" revision="eab740276cffc3f762345018a9ab2472ccaa893d" />
   <!-- RTM revision -->
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" revision="89a5648fcb366adb25b75aa69a7ad9a34842dd17" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" revision="003ac666e57669d4312b5792068c3db302ee7b84" />
-  <project path="frameworks/ex" name="platform/frameworks/ex" revision="6b425b5e4b7bb53a783ad3f07c78693a2cce551d" />
+  <project path="frameworks/ex" name="platform/frameworks/ex" revision="e407bff4896dfe7f43fc955d35ee40b321b8cc83" /> <!-- same with KRS53G, 6b425b5e4b7bb53a783ad3f07c78693a2cce551d -->
   <!-- RTM revision -->
   <project path="frameworks/mff" name="platform/frameworks/mff" revision="b9669b8540a1e5c953374d53b115514335e23c27" />
   <!-- RTM revision -->
   <project path="frameworks/ml" name="platform/frameworks/ml" revision="5072d507df1fd827ac7b15900c1f113949f76f12" />
-  <project path="frameworks/native" name="platform/frameworks/native" groups="pdk" revision="b6aea00c7843705fdc6d265d7e15b3df52e86009" />
+  <project path="frameworks/native" name="platform/frameworks/native" groups="pdk" revision="bcab7b17b1c5476935a6f2f916922b4eb57991a4" />  <!-- same with KRS53G, b6aea00c7843705fdc6d265d7e15b3df52e86009 -->
   <!-- RTM revision -->  
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" revision="e017a53a1a90ac1c62c1de549d63138bd8237f7d" />
   <!-- RTM revision -->
