@@ -60,14 +60,14 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" revision="abc5159a3ca9dbb5c7e364a1eab99901a4440ac5" />
   <!-- RTM revision -->  
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" revision="7dfe7f89a3b174709c773fe319531006e46440d9" />
-  <project path="device/lge/hammerhead" name="device/lge/hammerhead" groups="device,hammerhead" revision="530b78f89fdb926913f1f20c36d78db643d78646" />
-  <project path="device/lge/hammerhead-kernel" name="device/lge/hammerhead-kernel" groups="device,hammerhead" revision="0b39b83a9f933b55d7b767977029c4d0d2f34828" />
-  <project path="device/lge/mako" name="device/lge/mako" groups="device,mako" revision="e907e8cb659fd45c2d4b360dad50863932064577" />
+  <project path="device/lge/hammerhead" name="device/lge/hammerhead" groups="device,hammerhead" revision="f216a4eb3a12365a113b69ae6b61d025809783fa" />
+  <project path="device/lge/hammerhead-kernel" name="device/lge/hammerhead-kernel" groups="device,hammerhead" revision="8153c90187f83aa34677139451b2b46db37fbeb2" />
+  <project path="device/lge/mako" name="device/lge/mako" groups="device,mako" revision="d6558d7e54b3b9ca60ef3c2ba6c84f8c15b042fa" />
   <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="device,mako" revision="5039edff9061a854369dace89c4a1c4e31e5f077" />
-  <project path="device/sample" name="device/sample" groups="pdk" revision="5ca7270b9b785b85699f12cd9f00d00ad096417f" />
-  <project path="device/samsung/manta" name="device/samsung/manta" groups="device,manta" revision="0f134554a4f361e720f7b65c7b0416a5cec43fb6" />
+  <project path="device/sample" name="device/sample" groups="pdk" revision="d1016076f79c7fa9a4e6c40e3350d7c908577753" />
+  <project path="device/samsung/manta" name="device/samsung/manta" groups="device,manta" revision="cdfd922741943ad27743c0fe8b541e73a388b23d" />
   <!-- RTM revision -->
-  <project path="docs/source.android.com" name="platform/docs/source.android.com" revision="a4bcafc895acf40f48fd7d246cec66cad0bbbd64" />
+  <project path="docs/source.android.com" name="platform/docs/source.android.com" revision="48fb042cf314333926a5146ee7acc004a9e953c8" />
   <project path="external/aac" name="platform/external/aac" revision="16c472c201c197d3660334df5952eb4084897f9f" />
   <!-- RTM revision -->
   <project path="external/android-clat" name="platform/external/android-clat" revision="b922c820c007b0227480117a29e7cc797cd650c8" />
@@ -542,8 +542,8 @@
   <project path="packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" revision="cef97ff7118b0a30cff842129300e0633d220043" />
   <project path="packages/apps/VideoEditor" name="platform/packages/apps/VideoEditor" revision="c32266983578f20d036d9de78d764a7e1f3c8175" />
   <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" revision="6a5eb396d695581d2a8b0e678a037b656ae3e37c" />
-  <project path="packages/experimental" name="platform/packages/experimental" revision="92ee8105683fe2c1483e8e2cb10e6be3e762f9f5" />
-  <project path="packages/inputmethods/LatinIME" name="platform/packages/inputmethods/LatinIME" revision="001c62fbd48aa8fba9963d57fba1c93323c11e4c" />
+  <project path="packages/experimental" name="platform/packages/experimental" revision="ccd352be3a221d8127ec762d1efa4452a3cbd6ec" />
+  <project path="packages/inputmethods/LatinIME" name="platform/packages/inputmethods/LatinIME" revision="751c5ae73ecb9092df9ed3f2afe2cecaedfec957" />
   <!-- RTM revision -->
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" revision="59aefa242169b7a51c2381daee58ff22fd1834ce" />
   <!-- RTM revision -->
@@ -563,7 +563,7 @@
   <project path="packages/screensavers/PhotoTable" name="platform/packages/screensavers/PhotoTable" revision="3378eb998047c21d85c028e1066e22edc1e1a3a9" />
   <!-- RTM revision -->
   <project path="packages/screensavers/WebView" name="platform/packages/screensavers/WebView" revision="6e0a80f6faed6191acc8ce1b6c79eada09e9e042" />
-  <project path="packages/services/Telephony" name="platform/packages/services/Telephony" revision="66474eedbcc93d3a13df91879b5ed9d2db34be82" />
+  <project path="packages/services/Telephony" name="platform/packages/services/Telephony" revision="64aab42a7f3accba3e55b567d0c798257c234045" />
   <project path="packages/wallpapers/Basic" name="platform/packages/wallpapers/Basic" revision="36fec1d691a2db23a0a4b110b4db6c5742b29968" />
   <!-- RTM revision -->
   <project path="packages/wallpapers/Galaxy4" name="platform/packages/wallpapers/Galaxy4" revision="ca92fdc25da99afdfe33447aefb2cd270c5b5e4d" />
