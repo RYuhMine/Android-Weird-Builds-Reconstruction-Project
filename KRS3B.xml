@@ -502,7 +502,7 @@
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" revision="ed8faea378f949148993092b785c6438418c14b4" />
   <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts" revision="949c7fc1f4ecb36934a4b1f26e513534845d4c33" />
   <project path="packages/apps/ContactsCommon" name="platform/packages/apps/ContactsCommon" revision="e31b07390729cced594404410efb4448f94a95cb" />
-  <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" revision="fb935cd69000a0bf6609cfa509fe0c8c2174d73f" />
+  <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" revision="e7d6d276c24609c10d29d0ae7a7c701e12a45428" />
   <project path="packages/apps/Dialer" name="platform/packages/apps/Dialer" revision="4beffadcc0a9fd3a265cbdd71b3a1f320888e805" />
   <project path="packages/apps/Email" name="platform/packages/apps/Email" revision="e28df2420522643a23646921cb252de3a6188b9d" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" revision="6c77a15efe0f58c0298079af3d3798acf4f1ac30" />
@@ -560,7 +560,7 @@
   <!-- RTM revision -->
   <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" revision="361f35b7b1fe758d93e0952536a298b2ed045a89" />
   <project path="packages/screensavers/Basic" name="platform/packages/screensavers/Basic" revision="2862a275e02baca01663b5ba0f5043ff8208b3b6" />
-  <project path="packages/screensavers/PhotoTable" name="platform/packages/screensavers/PhotoTable" revision="3378eb998047c21d85c028e1066e22edc1e1a3a9" />
+  <project path="packages/screensavers/PhotoTable" name="platform/packages/screensavers/PhotoTable" revision="e8dd8ba8426bbd90216b492084e4ecb25d419fbc" />
   <!-- RTM revision -->
   <project path="packages/screensavers/WebView" name="platform/packages/screensavers/WebView" revision="6e0a80f6faed6191acc8ce1b6c79eada09e9e042" />
   <project path="packages/services/Telephony" name="platform/packages/services/Telephony" revision="64aab42a7f3accba3e55b567d0c798257c234045" />
