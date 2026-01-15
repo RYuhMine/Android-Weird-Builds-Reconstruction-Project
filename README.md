@@ -11,6 +11,9 @@ Following builds were reconstructed:
 
 
 
+Use this when it wont compile because "a wrong API":
+export WITHOUT_CHECK_API=true
+
 
 Useful Links
 ------------
