@@ -7,12 +7,12 @@ Following builds were reconstructed:
 
 | Build number         | Status           | Note                   |
 | :---:                |   :---:          |   :---:                |
-| KRS3B                |  In process      |  Mistyped build KRS53B |
+| KRS3B                |  Done (not all variants are compiled yet     |  Mistyped build KRS53B |
 
 
 
-Use this when it wont compile because "a wrong API":
-export WITHOUT_CHECK_API=true
+Use this when it wont compile because of "a wrong API":<br>
+`export WITHOUT_CHECK_API=true`
 
 
 Useful Links
