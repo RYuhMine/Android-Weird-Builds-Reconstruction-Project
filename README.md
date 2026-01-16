@@ -7,7 +7,7 @@ Following builds were reconstructed:
 
 | Build number         | Status           | Note                   |
 | :---:                |   :---:          |   :---:                |
-| KRS3B                |  Done (not all variants are compiled yet     |  Mistyped build KRS53B |
+| KRS3B                |  Done (not all variants are compiled yet)     |  Mistyped build KRS53B |
 
 
 
