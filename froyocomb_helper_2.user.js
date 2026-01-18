@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Froyocomb Helper (Extended)
 // @namespace    https://dobby233liu.neocities.org
-// @version      v1.1.11c_Reimu_3
+// @version      v1.1.12b_Reimu_3
 // @description  Tool for speeding up the process of finding commits from before a specific date (i.e. included with a specific build). Developed for Froyocomb, the Android pre-release source reconstruction project.
-// @author       by Liu Wenyuan & Froyocomb Team & Reimu & AI
+// @author       Liu Wenyuan & Froyocomb Team & Reimu & AI
 // @match        https://android.googlesource.com/*
 // @match        https://chromium.googlesource.com/*
 // @grant        GM_addStyle
@@ -11,6 +11,9 @@
 // @grant        GM_setValue
 // @grant        GM_deleteValue
 // @run-at       document-end
+// @downloadURL  https://raw.githubusercontent.com/RYuhMine/Android-Weird-Builds-Reconstruction-Project/blob/main/froyocomb_helper_2.user.js
+// @updateURL    https://raw.githubusercontent.com/RYuhMine/Android-Weird-Builds-Reconstruction-Project/blob/main/froyocomb_helper_2.user.js
+// @supportURL   https://github.com/RYuhMine/Android-Weird-Builds-Reconstruction-Projec
 // ==/UserScript==
 
 "use strict";
