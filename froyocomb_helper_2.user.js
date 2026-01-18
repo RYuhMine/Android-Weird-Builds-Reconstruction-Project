@@ -550,7 +550,7 @@ if (document.querySelector(".RepoShortlog")) {
                 const hash = new URL(hashEl.href).pathname.split("/").reverse()[0];
 
                 // Rate limit protection
-                await sleep(350);
+                await sleep(390);
 
                 // Fetch and display
                 await fetchAndInsertBuildId(hash, hashEl.parentNode);
@@ -814,3 +814,4 @@ Does this seem correct?`)) {
             highlightCommitterOrTaggerRow(taggerRow);
     })();
 }
+
