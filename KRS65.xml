@@ -280,7 +280,7 @@
   <project path="external/libusb-compat" name="platform/external/libusb-compat" revision="94867ba54eb7faa8efca81cf2214d00bb9143d27" />
   <!-- RTM revision -->
   <project path="external/libvorbis" name="platform/external/libvorbis" revision="de559619fd4dd0d2d9608436696fd44bdf74eba8" />
-  <project path="external/libvpx" name="platform/external/libvpx" groups="pdk" revision="3cf46fa591fea4503b091ae8a1f79205ac27eb52" /> <!--948aaab4ca6f5e32258811c265f88d79c21936ef-->
+  <project path="external/libvpx" name="platform/external/libvpx" groups="pdk" revision="f3bed9137f66ef693bd406e43b17e9a1114f1e14" /> <!--948aaab4ca6f5e32258811c265f88d79c21936ef-->
   <!-- RTM revision -->
   <project path="external/libxml2" name="platform/external/libxml2" revision="a2bb4a267ee7c62c48bf6089e3da51d8283a97f3" />
   <!-- RTM revision -->
