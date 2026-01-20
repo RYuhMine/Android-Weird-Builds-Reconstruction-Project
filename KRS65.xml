@@ -280,7 +280,7 @@
   <project path="external/libusb-compat" name="platform/external/libusb-compat" revision="94867ba54eb7faa8efca81cf2214d00bb9143d27" />
   <!-- RTM revision -->
   <project path="external/libvorbis" name="platform/external/libvorbis" revision="de559619fd4dd0d2d9608436696fd44bdf74eba8" />
-  <project path="external/libvpx" name="platform/external/libvpx" groups="pdk" revision="948aaab4ca6f5e32258811c265f88d79c21936ef" />
+  <project path="external/libvpx" name="platform/external/libvpx" groups="pdk" revision="3cf46fa591fea4503b091ae8a1f79205ac27eb52" /> <!--948aaab4ca6f5e32258811c265f88d79c21936ef-->
   <!-- RTM revision -->
   <project path="external/libxml2" name="platform/external/libxml2" revision="a2bb4a267ee7c62c48bf6089e3da51d8283a97f3" />
   <!-- RTM revision -->
@@ -419,7 +419,7 @@
   <!-- RTM revision -->
   <project path="external/zxing" name="platform/external/zxing" revision="7620644768ffc235607b3a94671e49518c18686f" />
   <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" revision="67cd740a88e8a2cd1e9563c4338d4c6dae8b8fe6" />
-  <project path="frameworks/base" name="platform/frameworks/base" groups="pdk" revision="9572d7bbaf5873d717d6172afa5cde15521c3f6a" /> <!-- 61f0f9ada51a6718075acfe7fafbb9954f38e980 -->
+  <project path="frameworks/base" name="platform/frameworks/base" groups="pdk" revision="6525084b4f0cc0992ae47d5e0a0c3e8cf050f119" /> <!-- 61f0f9ada51a6718075acfe7fafbb9954f38e980 -->
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" revision="3c2edb53918181bbf8f8374c2137f85c386d494c" />
   <!-- RTM revision -->
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" revision="89a5648fcb366adb25b75aa69a7ad9a34842dd17" />
