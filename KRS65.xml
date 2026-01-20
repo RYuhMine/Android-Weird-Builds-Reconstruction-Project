@@ -374,7 +374,7 @@
   <!-- RTM revision -->
   <project path="external/sonivox" name="platform/external/sonivox" groups="pdk" revision="2dbbd3bac0f0e819d196a80cc7855054148ef8b6" />
   <!-- RTM revision -->
-  <project path="external/speex" name="platform/external/speex" groups="pdk" revision="fb7db5853ffb841a4d32fea8b5c3a43e6b875cae" /> <!-- check before!!!!!!!!!!!!!!!!!!!!!!! -->
+  <project path="external/speex" name="platform/external/speex" groups="pdk" revision="fb7db5853ffb841a4d32fea8b5c3a43e6b875cae" />
   <project path="external/sqlite" name="platform/external/sqlite" groups="pdk" revision="bde763528bf07086d010f3a89db0b9475bf7a7d3" />
   <!-- RTM revision -->
   <project path="external/srec" name="platform/external/srec" revision="2706e1ca0c118cb78fbbbc977e4e95e14fdedebc" />
@@ -419,7 +419,7 @@
   <!-- RTM revision -->
   <project path="external/zxing" name="platform/external/zxing" revision="7620644768ffc235607b3a94671e49518c18686f" />
   <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" revision="67cd740a88e8a2cd1e9563c4338d4c6dae8b8fe6" />
-  <project path="frameworks/base" name="platform/frameworks/base" groups="pdk" revision="6525084b4f0cc0992ae47d5e0a0c3e8cf050f119" /> <!-- 61f0f9ada51a6718075acfe7fafbb9954f38e980 -->
+  <project path="frameworks/base" name="platform/frameworks/base" groups="pdk" revision="9572d7bbaf5873d717d6172afa5cde15521c3f6a" /> <!-- 61f0f9ada51a6718075acfe7fafbb9954f38e980 -->
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" revision="3c2edb53918181bbf8f8374c2137f85c386d494c" />
   <!-- RTM revision -->
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" revision="89a5648fcb366adb25b75aa69a7ad9a34842dd17" />
