@@ -27,7 +27,7 @@
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" revision="60d078a5924284a452a8fe739247704f8b31c754" />
   <project path="bootable/recovery" name="platform/bootable/recovery" groups="pdk" revision="79a188cbcfacd898f01d071159b56b87c8612fbf" />
   <project path="cts" name="platform/cts" groups="cts" revision="a15f5e858bedc80f4a98ac7ba816f7264eb31777" /> <!-- sussusussuususus -->
-  <project path="dalvik" name="platform/dalvik" revision="f7a95b8ca58b5bb26b188de25b4f09cfa7844cf0" /> <!-- test -->
+  <project path="dalvik" name="platform/dalvik" revision="b75d4db42400551640ea99acd238a84fda864b55" /> <!-- test -->
   <!-- RTM revision -->
   <project path="developers/build" name="platform/developers/build" revision="2b1169e2095f5e30f118abd146a62007697cecc3" />
   <!-- RTM revision -->
@@ -491,7 +491,7 @@
   <!-- RTM revision -->
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" revision="495914562a315a5152780709ab622cd987561de5" />
   <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" revision="b2b95168dce5a0330ffb5ae962db49b1697e92f7" />
-  <project path="libcore" name="platform/libcore" revision="4a2acff75d2066d11019a215e04b778eaa2c2c48" />  <!-- test -->
+  <project path="libcore" name="platform/libcore" revision="482b89bdd3e2069852061909f35823ab7dba844f" />  <!-- test -->
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" revision="fef1227f27beeb925e825151ee27ce82e04a667a" />
   <!-- RTM revision -->
   <project path="ndk" name="platform/ndk" revision="e58ef003be4306bb53a8c11331146f39e4eab31f" />
