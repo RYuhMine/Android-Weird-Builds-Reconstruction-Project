@@ -491,7 +491,7 @@
   <!-- RTM revision -->
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" revision="495914562a315a5152780709ab622cd987561de5" />
   <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" revision="b2b95168dce5a0330ffb5ae962db49b1697e92f7" />
-  <project path="libcore" name="platform/libcore" revision="8508d7f51c08245fa96cd1f6eb613765ba695232" />
+  <project path="libcore" name="platform/libcore" revision="4a2acff75d2066d11019a215e04b778eaa2c2c48" />  <!-- test -->
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk-java" revision="fef1227f27beeb925e825151ee27ce82e04a667a" />
   <!-- RTM revision -->
   <project path="ndk" name="platform/ndk" revision="e58ef003be4306bb53a8c11331146f39e4eab31f" />
