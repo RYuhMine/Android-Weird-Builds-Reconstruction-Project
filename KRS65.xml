@@ -27,7 +27,7 @@
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" revision="60d078a5924284a452a8fe739247704f8b31c754" />
   <project path="bootable/recovery" name="platform/bootable/recovery" groups="pdk" revision="79a188cbcfacd898f01d071159b56b87c8612fbf" />
   <project path="cts" name="platform/cts" groups="cts" revision="a15f5e858bedc80f4a98ac7ba816f7264eb31777" /> <!-- sussusussuususus -->
-  <project path="dalvik" name="platform/dalvik" revision="cb94e12f555b14bb27f2539cb2a10d17ef98efa6" />
+  <project path="dalvik" name="platform/dalvik" revision="f7a95b8ca58b5bb26b188de25b4f09cfa7844cf0" /> <!-- test -->
   <!-- RTM revision -->
   <project path="developers/build" name="platform/developers/build" revision="2b1169e2095f5e30f118abd146a62007697cecc3" />
   <!-- RTM revision -->
