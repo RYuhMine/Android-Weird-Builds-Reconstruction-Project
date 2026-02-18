@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="aosp"
-           fetch=".."
+           fetch="https://android.googlesource.com/"
            review="https://android-review.googlesource.com/" />
   <default revision="refs/tags/android-n-iot-release-smart-display"
            remote="aosp"
-           sync-j="4" />
+           sync-j="6" />
   <!-- BEGIN open-source projects -->
   <project path="build" name="platform/build" groups="pdk" >
     <copyfile src="core/root.mk" dest="Makefile" />
@@ -529,4 +529,5 @@
   <project path="hardware/bsp/kernel/qcom/qcom-msm8x09-v3.10" name="platform/hardware/bsp/kernel/qcom/qcom-msm8x09-v3.10" groups="msm8x09" />
   <project path="hardware/bsp/kernel/mediatek/mt8516-v4.4" name="platform/hardware/bsp/kernel/mediatek/mt8516-v4.4"  groups="mt8516" />
   <!-- END Android Things open-source projects -->
+
 </manifest>
