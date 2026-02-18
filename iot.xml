@@ -5,7 +5,7 @@
            review="https://android-review.googlesource.com/" />
   <default revision="main"
            remote="aosp"
-           sync-j="6" />
+           sync-j="4" />
   <project path="build/make" name="platform/build" groups="pdk" clone-depth="1" >
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
@@ -68,4 +68,5 @@
   <project path="tools/repohooks" name="platform/tools/repohooks"  clone-depth="1" />
   <project path="packages/apps/TV" name="platform/packages/apps/TV" revision="android-live-tv" />
 </manifest>
+
 
