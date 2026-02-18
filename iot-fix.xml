@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="aosp"
+           fetch="https://android.googlesource.com/"
+           review="https://android-review.googlesource.com/" />
+  <default revision="refs/tags/android-10.0.0_r47"
+           remote="aosp"
+           sync-j="6" />
+
+  <!-- BEGIN critical missing projects for HIDL / VINTF / SELinux / Kotlin / protobuf -->
+  <project path="system/libhidl" name="platform/system/libhidl" />
+  <project path="system/libvintf" name="platform/system/libvintf" />
+  <project path="system/tools/hidl" name="platform/system/tools/hidl" />
+  <project path="hardware/interfaces" name="platform/hardware/interfaces" />
+  <project path="system/libhwbinder" name="platform/system/libhwbinder" />
+  <project path="external/selinux" name="platform/external/selinux" />
+  <project path="external/libnl" name="platform/external/libnl" />
+  <project path="external/protobuf" name="platform/external/protobuf" />
+  <project path="prebuilts/sdk" name="platform/prebuilts/sdk" />
+</manifest>
