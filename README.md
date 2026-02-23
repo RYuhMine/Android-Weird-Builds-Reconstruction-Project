@@ -14,6 +14,8 @@ Following builds were reconstructed:
 Use this when it wont compile because of "a wrong API":<br>
 `export WITHOUT_CHECK_API=true`
 
+Init command:<br>
+`repo init -u https://github.com/RYuhMine/Android-Weird-Builds-Reconstruction-Project -m <build>.xml --depth=1`
 
 Useful Links
 ------------
