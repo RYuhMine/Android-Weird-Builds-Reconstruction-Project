@@ -23,7 +23,7 @@
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="411bb9df76e5b21affae73f076e5d292197b66be" />
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="5af4973e9a3c6778d962a275878ddad7845f29c0" />
   <project name="platform/cts" path="cts" revision="fb45d12759f1ef78a7127d2a06c98e6daa4b77ca" />
-  <project name="platform/dalvik" path="dalvik" revision="9910d7e004c7452a6a1b934f19dc87bb4d61d8bc" />
+  <project name="platform/dalvik" path="dalvik" revision="b27341588c31ede077762de4c200049abc0417aa" />
   <project name="platform/development" path="development" revision="e2e7ec94295a9dac952f4644a2b3fe14d2631146" />
   <project name="device/common" path="device/common" revision="cdcda4f6e61b62b118bd23d06b7f723c0460c69f" />
   <!-- 4.0 RTM commit dont change -->
