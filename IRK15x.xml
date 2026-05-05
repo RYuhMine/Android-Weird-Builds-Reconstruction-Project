@@ -55,7 +55,7 @@
   <project name="platform/external/bsdiff" path="external/bsdiff" revision="81872540236d9bb15cccf963d05b9de48baa5375" />
   <project name="platform/external/bzip2" path="external/bzip2" revision="9ac1ec23f7a9ad61bec16960ec33635f78097441" />
   <project name="platform/external/chromium" path="external/chromium" revision="74b084c38a376b8c8ee24cadcc3e65bfb4b47160" />
-  <project name="platform/external/clang" path="external/clang" revision="3e1ef7849845a9e7bf79156bbb8a2c26d77a1d2e" /> <!--- 8435069798b5621615f9f65c471c7e7808316b20 --->
+  <project name="platform/external/clang" path="external/clang" revision="3e1ef7849845a9e7bf79156bbb8a2c26d77a1d2e" /> <!-- 8435069798b5621615f9f65c471c7e7808316b20 -->
   <!-- 4.0 RTM commit dont change -->
   <project name="platform/external/collada" path="external/collada" revision="538700ec332c8306a1283f8dfdb016e493905e6f" />
   <project name="platform/external/dbus" path="external/dbus" revision="aa82a573b744cf04ece55a653c1ab64b6bda7f1f" />
@@ -142,7 +142,7 @@
   <project name="platform/external/libxml2" path="external/libxml2" revision="f2da8ef9b4e7243c19e295fed847fa897e8230d3" />
   <!-- 4.0 RTM commit dont change -->
   <project name="platform/external/libxslt" path="external/libxslt" revision="d9120218522dc5da663e78996d0f042c0a62bc5e" />
-  <project name="platform/external/llvm" path="external/llvm" revision="f9d7fb6b3c45abc64ad52cd8a9a8a7dd5aa9f4bb" /> <!--- 93a896e2e36480d55de3bab53e68581e08526344 --->
+  <project name="platform/external/llvm" path="external/llvm" revision="f9d7fb6b3c45abc64ad52cd8a9a8a7dd5aa9f4bb" /> <!-- 93a896e2e36480d55de3bab53e68581e08526344 -->
   <!-- 4.0 RTM commit dont change -->
   <project name="platform/external/markdown" path="external/markdown" revision="21ce115e566aa5af7fe8a971805af1daab12c754" />
   <project name="platform/external/mesa3d" path="external/mesa3d" revision="bfe38a89adcf6e2a7b9191c101859a5f6f64de46" />
